@@ -1,3 +1,3 @@
 function showMessage(){
-    alert("CI/CD Practice Successful!");
+    alert("CI/CD Practice
 }
